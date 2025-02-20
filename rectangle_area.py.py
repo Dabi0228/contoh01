@@ -14,4 +14,4 @@ area = calculate_area(length, width)
 perimeter = calculate_perimeter(length, width)
 
 print(f"Luas persegi panjang adalah: {area}")  # Dari branch Maya
-print(f"Keliling persegi panjang adalah: {perimeter}")  # Dari branch Maya
+print(f"Keliling persegi panjang adalah: {perimeter}")  # Dari branch Mayaa
