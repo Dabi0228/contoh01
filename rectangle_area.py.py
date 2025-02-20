@@ -8,3 +8,6 @@ width = 10
 area = calculate_area(length, width)
 print(f"Luas persegi panjang adalah: {area}")
 #selesaiiiiii
+def calculate_perimeter(length, width):
+    """Menghitung keliling persegi panjang."""
+    return 2 * (length + width)
